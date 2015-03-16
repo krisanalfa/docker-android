@@ -1,0 +1,3 @@
+deb http://kambing.ui.ac.id/debian/ wheezy main contrib non-free
+deb http://kambing.ui.ac.id/debian/ wheezy-updates main contrib non-free
+deb http://kambing.ui.ac.id/debian-security/ wheezy/updates main contrib non-free

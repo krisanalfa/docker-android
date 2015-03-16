@@ -1,0 +1,11 @@
+{
+    "name": "krisanalfa/docker-android",
+    "profile": "docker",
+
+    "docker": {
+        "containers": {
+            "root": {
+            }
+        }
+    }
+}
